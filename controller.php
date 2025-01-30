@@ -1,52 +1,84 @@
 <?php
 
-namespace Elementor\Modules\SiteNavigation\Data;
-
-use Elementor\Plugin;
-use Elementor\Data\V2\Base\Controller as Base_Controller;
-use Elementor\Modules\SiteNavigation\Data\Endpoints\Add_New_Post;
-use Elementor\Modules\SiteNavigation\Data\Endpoints\Duplicate_Post;
-use Elementor\Modules\SiteNavigation\Data\Endpoints\Homepage;
-use Elementor\Modules\SiteNavigation\Data\Endpoints\Recent_Posts;
+namespace Elementor\Modules\Favorites;
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
 
-class Controller extends Base_Controller {
+use Elementor\Data\V2\Base\Controller as Controller_Base;
+use Elementor\Plugin;
+
+class Controller extends Controller_Base {
 
 	public function get_name() {
-		return 'site-navigation';
+		return 'favorites';
 	}
 
-	public function get_items_permissions_check( $request ) {
+	public function create_item( $request ) {
+		$module = $this->get_module();
+		$type = $request->get_param( 'id' );
+		$favorite = $request->get_param( 'favorite' );
+
+		$module->update( $type, $favorite, $module::ACTION_MERGE );
+
+		return $module->get( $type );
+	}
+
+	public function delete_item( $request ) {
+		$module = $this->get_module();
+		$type = $request->get_param( 'id' );
+		$favorite = $request->get_param( 'favorite' );
+
+		$module->update( $type, $favorite, $module::ACTION_DELETE );
+
+		return $module->get( $type );
+	}
+
+	public function create_item_permissions_check( $request ) {
 		return current_user_can( 'edit_posts' );
 	}
 
-	public function create_items_permissions_check( $request ): bool {
-		// Permissions check is located in the endpoint
-		return true;
+	public function delete_item_permissions_check( $request ) {
+		return $this->create_item_permissions_check( $request );
 	}
 
-	public function get_item_permissions_check( $request ) {
-		return $this->get_items_permissions_check( $request );
-	}
-
-	public function create_item_permissions_check( $request ): bool {
-		return $this->create_items_permissions_check( $request );
+	/**
+	 * Get the favorites module instance.
+	 *
+	 * @return Module
+	 */
+	protected function get_module() {
+		return Plugin::instance()->modules_manager->get_modules( 'favorites' );
 	}
 
 	public function register_endpoints() {
-		$this->register_endpoint( new Recent_Posts( $this ) );
-		$this->register_endpoint( new Add_New_Post( $this ) );
+		$this->index_endpoint->register_item_route( \WP_REST_Server::CREATABLE, [
+			'id_arg_type_regex' => '[\w]+',
+			'id' => [
+				'description' => 'Type of favorites.',
+				'type' => 'string',
+				'required' => true,
+			],
+			'favorite' => [
+				'description' => 'The favorite slug to create.',
+				'type' => 'string',
+				'required' => true,
+			],
+		] );
 
-		if ( Plugin::$instance->experiments->is_feature_active( 'pages_panel' ) ) {
-			$this->register_endpoint( new Duplicate_Post( $this ) );
-			$this->register_endpoint( new Homepage( $this ) );
-		}
-	}
-
-	protected function register_index_endpoint() {
-		// Bypass, currently does not required.
+		$this->index_endpoint->register_item_route( \WP_REST_Server::DELETABLE, [
+			'id_arg_type_regex' => '[\w]+',
+			'id' => [
+				'description' => 'Type of favorites.',
+				'type' => 'string',
+				'required' => true,
+			],
+			'favorite' => [
+				'description' => 'The favorite slug to delete.',
+				'type' => 'string',
+				'required' => true,
+			],
+		] );
 	}
 }
