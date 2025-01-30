@@ -1,0 +1,141 @@
+# Translation of Plugins - Seed Fonts - Stable (latest release) in Thai
+# This file is distributed under the same license as the Plugins - Seed Fonts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-10 07:58:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: th\n"
+"Project-Id-Version: Plugins - Seed Fonts - Stable (latest release)\n"
+
+#: seed-fonts.php:609
+msgid "1.5-1.8 is recommended."
+msgstr "แนะนำค่า 1.5-1.8"
+
+#: seed-fonts.php:607
+msgid "Line Height"
+msgstr "ระยะระหว่างบรรทัด"
+
+#: seed-fonts.php:583
+msgid "Many fonts have only Regular (400), not Light (300)."
+msgstr "ฟอนต์ทั่วไปมักมีแค่ตัวธรรมดา (400) อาจไม่มีตัวบาง (300)"
+
+#: seed-fonts.php:551
+msgid "Enable Body Font?"
+msgstr "เปิดใช้งานฟอนต์ส่วนเนื้อหา"
+
+#: seed-fonts.php:508
+msgid "Separate selectors with commas such as <b>h1, h2, .button</b>."
+msgstr "คั่นระหว่าง Seletor ด้วยคอมม่า เช่น <b>h1, h2, .button</b>"
+
+#: seed-fonts.php:500
+msgid "Many fonts have only Regular (400) and Bold (700)."
+msgstr "ฟอนต์จำนวนมากจะมีแค่ตัวธรรมดา (400) และตัวหนา (700)"
+
+#: seed-fonts.php:493 seed-fonts.php:576
+msgid "Bundled Font"
+msgstr "ฟอนต์ที่มีขณะนี้"
+
+#: seed-fonts.php:489 seed-fonts.php:572
+msgid "Open Sans"
+msgstr "Kanit"
+
+#: seed-fonts.php:482 seed-fonts.php:565
+msgid "Use font name from <a href=\"%1$s\" target=\"_blank\">fonts.google.com</a>, such as <b>Roboto</b>, <b>Open Sans</b> (case-sensitive)."
+msgstr "ดูรายชื่อที่ <a href=\"%1$s\" target=\"_blank\">fonts.google.com</a> แล้วนำมาใส่ในช่องด้านบน เช่น <b>Kanit</b>, <b>Open Sans</b> (ตัวอักษรเล็กใหญ่ต้องตรงกัน)"
+
+#: seed-fonts.php:480 seed-fonts.php:563
+msgid "Google Font Name"
+msgstr "ชื่อฟอนต์"
+
+#: seed-fonts.php:474 seed-fonts.php:557
+msgid "Use Google Fonts?"
+msgstr "เปิดใช้ Google Fonts?"
+
+#: seed-fonts.php:468
+msgid "Enable Heading Font?"
+msgstr "เปิดใช้งานฟอนต์สำหรับพาดหัว"
+
+#: seed-fonts.php:257
+msgid " (Thai Loop)"
+msgstr " (มีหัว)"
+
+#: seed-fonts.php:601
+msgid "%"
+msgstr "%"
+
+#: seed-fonts.php:601
+msgid "em"
+msgstr "em"
+
+#: seed-fonts.php:601
+msgid "px"
+msgstr "px"
+
+#: seed-fonts.php:599
+msgid "Size Unit"
+msgstr "หน่วย"
+
+#: seed-fonts.php:593
+msgid "Size"
+msgstr "ขนาดตัวอักษร"
+
+#: seed-fonts.php:547
+msgid "Fonts Settings - Body"
+msgstr "ตั้งค่าฟอนต์ - ส่วนเนื้อหา"
+
+#: seed-fonts.php:525 seed-fonts.php:627
+msgid "Generated CSS"
+msgstr "CSS ที่สร้างขึ้น"
+
+#: seed-fonts.php:521 seed-fonts.php:623
+msgid "Yes (!important added)"
+msgstr "ใช่ (เพิ่มคำสั่ง !important)"
+
+#: seed-fonts.php:519 seed-fonts.php:621
+msgid "Force Using This Font?"
+msgstr "บังคับใช้ฟอนต์นี้?"
+
+#: seed-fonts.php:616
+msgid "Separate selectors with commas"
+msgstr "คั่นระหว่าง Selector ด้วยเครื่องหมาย \",\""
+
+#: seed-fonts.php:506 seed-fonts.php:614
+msgid "Selectors"
+msgstr "Selectors"
+
+#: seed-fonts.php:499 seed-fonts.php:582
+msgid "Weight"
+msgstr "น้ำหนัก"
+
+#: seed-fonts.php:470 seed-fonts.php:476 seed-fonts.php:553 seed-fonts.php:559
+msgid "Yes"
+msgstr "ใช่"
+
+#: seed-fonts.php:464
+msgid "Fonts Settings - Heading"
+msgstr "ตั้งค่าฟอนต์ - ส่วนพาดหัว"
+
+#: seed-fonts.php:195
+msgid "Body"
+msgstr "ส่วนเนื้อหา"
+
+#: seed-fonts.php:194
+msgid "Heading"
+msgstr "พาดหัว"
+
+#: seed-fonts.php:184
+msgid "Settings updated successfully."
+msgstr "ตั้งค่าเรียบร้อย"
+
+#: seed-fonts.php:165
+msgid "Fonts"
+msgstr "ฟอนต์"
+
+#. Plugin Name of the plugin
+#: seed-fonts.php:165 seed-fonts.php:179
+msgid "Seed Fonts"
+msgstr "Seed Fonts"

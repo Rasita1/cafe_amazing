@@ -1,0 +1,1562 @@
+# Translation of Themes - Ashe in Thai
+# This file is distributed under the same license as the Themes - Ashe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-12 08:05:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: th\n"
+"Project-Id-Version: Themes - Ashe\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Personal and Multi-Author Free WordPress Blog Theme. Perfect for personal, lifestyle, health & fitness, food, cooking, bakery, travel, beauty, fashion, wedding, photography, news, quotes blog, auto blog, small business website and any other kind of amazing blogs. Minimal, elegant & mobile friendly layout with WooCommerce shop (storefront) support will WOW and inspire your visitors. Well documented and very easy to use even for WordPress beginners. Clean and Modern Responsive design will perfectly showcase your content on any device, even on tablet, mobile & retina displays. Very fast, compatibility with many popular plugins & of course translation & RTL (right to left language) ready, coded with best SEO practices. The theme has features like Text & Image logo, Fullscreen Slider, Header image, Instagram slider widget support, footer menu support, GDPR compatibility plugins support and many more. Works perfectly with all major drag and drop page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi. You just need to write and be awesome! TEMPLATE DEMO: https://ashe-free.wp-royal-themes.com/demo/"
+msgstr "ธีมบล็อก WordPress สำหรับส่วนตัวและผู้เขียนหลายคนฟรี. สมบูรณ์แบบสำหรับส่วนบุคคล ไลฟ์สไตล์ สุขภาพ,ฟิตเนส,อาหาร,การทำอาหาร,เบเกอรี่,ท่องเที่ยว,ความงาม,แฟชั่น,แต่งงาน,การถ่ายภาพ ,ข่าว,บล็อกคำพูด,บล็อกอัตโนมัติ เว็บไซต์ธุรกิจขนาดเล็ก และบล็อกอื่น ๆ ที่น่าตื่นตาตื่นใจ. เลย์เอาต์ที่เป็นมิตรกับมือถือน้อยที่สุด สง่างาม และรองรับร้านค้า WooCommerce (หน้าร้าน) จะทำให้ตกใจและสร้างแรงบันดาลใจให้ผู้เยี่ยมชมของคุณ. มีการจัดทำเอกสารอย่างดีและใช้งานง่ายมาก แม้กระทั่งสำหรับผู้เริ่มต้นใช้งาน WordPress. การออกแบบที่ตอบสนองอย่างสะอาดตาและทันสมัยจะแสดงเนื้อหาของคุณบนอุปกรณ์ทุกชนิดได้อย่างสมบูรณ์แบบ แม้กระทั่งบนแท็บเล็ต มือถือ และจอเรตินา รวดเร็วมาก เข้ากันได้กับปลั๊กอินยอดนิยมมากมาย และแน่นอนว่าการแปล & RTL (ภาษาจากขวาไปซ้าย) พร้อมเข้ารหัสด้วยแนวทางปฏิบัติ SEO ที่ดีที่สุด. ชุดรูปแบบมีคุณสมบัติพิเศษชื่นชอบเช่นโลโก้ข้อความและรูปภาพรูปโลโก้ ตัวเลื่อนเต็มหน้าจอ รูปส่วนหัว รองรับวิดเจ็ตตัวเลื่อน Instagram การสนับสนุนเมนูส่วนท้าย รองรับปลั๊กอินความเข้ากันได้ของ GDPR และอีกมากมาย. ทำงานได้อย่างสมบูรณ์แบบกับเครื่องมือสร้างเพจแบบลากและวางหลัก ๆ เช่น Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi คุณเพียงแค่ต้องเขียนและยอดเยี่ยม! ตัวอย่างเทมเพลต: https://ashe-free.wp-royal-themes.com/demo/"
+
+#. Theme Name of the theme
+#: style.css inc/about/about-ashe.php:437
+#, gp-priority: high
+msgid "Ashe"
+msgstr "Ashe"
+
+#: inc/customizer/customizer.php:913
+msgid "Exclude Slides without Images"
+msgstr "ยกเว้นสไลด์ที่ไม่มีรูปภาพ"
+
+#: inc/customizer/customizer.php:806
+msgid "Show Simple Header"
+msgstr "แสดงส่วนหัวเรื่องอย่างง่าย"
+
+#: inc/about/about-ashe.php:411 inc/customizer/customizer.php:386
+msgid "Contact Us"
+msgstr "ติดต่อเรา"
+
+#: inc/about/about-ashe.php:410 inc/customizer/customizer.php:385
+msgid "If you have any kind of theme related questions, feel free to ask."
+msgstr "หากคุณมีคำถามที่สงสัยเกี่ยวกับหัวข้อใด ๆ, อย่าลังเลที่จะถาม."
+
+#: inc/about/about-ashe.php:408
+msgid "Email Support"
+msgstr "สนับสนุนอีเมล"
+
+#: comments.php:44
+msgid "Post Comment"
+msgstr "ส่งความเห็น"
+
+#: comments.php:43
+msgid "Comment"
+msgstr "ความเห็น"
+
+#: comments.php:42
+msgid "Leave a Reply"
+msgstr "ทิ้งคำตอบไว้"
+
+#: templates/header/main-navigation.php:37
+msgid "To disable this option, navigate to Appearance > Customize > Skins section and uncheck \"Dark Mode Switcher\" option. Only logged-in admin level users can see this notice!"
+msgstr "หากต้องการปิดใช้งานตัวเลือกนี้, ให้ไปที่ส่วน ลักษณะที่ปรากฏ > ปรับแต่ง > สกิน และยกเลิกการเลือกตัวเลือก \"ตัวสลับโหมดมืด\" เฉพาะผู้ใช้ระดับผู้ควบคุมที่เข้าสู่ระบบเท่านั้นที่สามารถเห็นประกาศนี้!"
+
+#: inc/about/about-ashe.php:420
+msgid "Download Now"
+msgstr "ดาวน์โหลดเดี๋ยวนี้"
+
+#: inc/about/about-ashe.php:419
+msgid "The best way to customize Ashe Theme code."
+msgstr "วิธีที่ดีที่สุดในการปรับแต่งโค้ดธีม Ashe."
+
+#: inc/about/about-ashe.php:417
+msgid "Child Theme"
+msgstr "ธีมเด็ก"
+
+#: inc/customizer/customizer.php:1372
+msgid "Menu Button Text"
+msgstr "ข้อความปุ่ม"
+
+#: inc/customizer/customizer.php:1369
+msgid "Select Mobile Menu Icon"
+msgstr "เลือกไอคอน"
+
+#: inc/customizer/customizer.php:549
+msgid "Switcher icon will be added to the right of the Navigation Menu. When the Dark Mode is enabled color controls will NOT work except Accent Color control. Dark Mode design reduces the light emitted by device screens while maintaining the minimum color contrast ratios required for readability."
+msgstr "ไอคอนตัวสลับจะถูกเพิ่มทางด้านขวาของเมนูนำทาง. เมื่อเปิดใช้งานโหมดมืดการควบคุมสีจะไม่ทำงานยกเว้นการควบคุมสีเน้นเสียง. การออกแบบโหมดมืดช่วยลดแสงที่ปล่อยออกมาจากหน้าจออุปกรณ์ในขณะที่ยังคงอัตราส่วนคอนทราสต์สีขั้นต่ำที่ต้องการสำหรับการอ่านได้."
+
+#: inc/customizer/customizer.php:539
+msgid "Show Dark Mode Switcher"
+msgstr "แสดงตัวสลับโหมดมืด"
+
+#: inc/customizer/customizer.php:505
+msgid "Box"
+msgstr "กล่อง"
+
+#: inc/customizer/customizer.php:995
+msgid "Feat. Links Options "
+msgstr "เกี่ยวกับ ตัวเลือกการเชื่อมต่อ "
+
+#: inc/customizer/customizer.php:1104
+msgid "Show Featured Image"
+msgstr "แสดงรูปภาพคุณสมบัติพิเศษ"
+
+#: inc/customizer/customizer.php:1032
+msgid "Show Drop Caps (First Big Letter)"
+msgstr "แสดงข้อสรุปสั้นๆให้น้อยลง (อักษรตัวใหญ่ตัวแรก)"
+
+#: inc/about/about-ashe.php:86
+msgid "Demo Import Video Tutorial"
+msgstr "สาธิตการนำเข้าวิดีโอสอน"
+
+#: inc/about/about-ashe.php:75
+msgid "If you are a WordPress beginner it's highly recommended to install the theme Demo Content. This file includes: Menus, Posts, Pages, Widgets, etc."
+msgstr "หากคุณเป็นผู้เริ่มต้นใช้งาน WordPress ขอแนะนำให้ติดตั้งธีมเนื้อหาตัวอย่าง. ไฟล์นี้รวมถึง: เมนู, เรื่อง, เพจ, วิดเจ็ต ฯลฯ."
+
+#: inc/about/about-ashe.php:69
+msgid "Setup Instagram"
+msgstr "ตั้งค่า Instagram"
+
+#: inc/customizer/customizer.php:1065
+msgid "Show Tumblr"
+msgstr "แสดง Tumblr"
+
+#: inc/customizer/customizer.php:1062
+msgid "Show Reddit"
+msgstr "แสดง Reddit"
+
+#: inc/customizer/customizer.php:1059
+msgid "Show Linkedin"
+msgstr "แสดง Linkdin"
+
+#: inc/customizer/customizer.php:1053
+msgid "Show Pinterest"
+msgstr "แสดง Pinterest"
+
+#: inc/customizer/customizer.php:1050
+msgid "Show Twitter"
+msgstr "แสดง Twitter"
+
+#: inc/customizer/customizer.php:1047
+msgid "Show Facebook"
+msgstr "แสดง Facebook"
+
+#: inc/customizer/customizer.php:958
+msgid "Display Featured Links on"
+msgstr "แสดงลิงค์คุณสมบัติพิเศษ"
+
+#: inc/customizer/customizer.php:881
+msgid "Slider Item"
+msgstr "รายการตัวเลื่อน"
+
+#: inc/customizer/customizer.php:840
+msgid "Posts"
+msgstr "ส่ง"
+
+#: inc/customizer/customizer.php:839
+msgid "Custom"
+msgstr "กำหนดเอง"
+
+#: inc/customizer/customizer.php:836
+msgid "Display Slider on"
+msgstr "แสดงสไลเดอร์"
+
+#: inc/customizer/customizer.php:832 inc/customizer/customizer.php:954
+msgid "Front and Posts Pages"
+msgstr "หน้าแรก และหน้าส่ง"
+
+#: inc/customizer/customizer.php:831 inc/customizer/customizer.php:953
+msgid "Posts Page"
+msgstr "หน้าส่ง"
+
+#: inc/customizer/customizer.php:830 inc/customizer/customizer.php:952
+msgid "Front Page"
+msgstr "หน้าแรก"
+
+#: inc/customizer/customizer.php:812
+msgid "Logo Width"
+msgstr "ความกว้างรูปโลโก้"
+
+#: inc/customizer/customizer.php:809
+msgid "Logo Upload"
+msgstr "อัปโหลดรูปโลโก้"
+
+#: inc/customizer/customizer.php:509
+msgid "Select Theme Skin"
+msgstr "เลือกธีมสกิน"
+
+#: inc/customizer/customizer.php:497 inc/customizer/customizer.php:563
+msgid "Skins"
+msgstr "สกิน"
+
+#: inc/customizer/customizer.php:428
+msgid "Please Note: "
+msgstr "โปรดทราบ: "
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:555
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:587
+msgid "Add Icon"
+msgstr "เพิ่มไอคอน"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:550
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:579
+msgid "Remove Icon"
+msgstr "ลบไอคอนออก"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:532
+msgid "Social icons"
+msgstr "ไอคอนสังคม"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:522
+msgid "Icon"
+msgstr "ไอคอน"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:519
+msgid "Image type"
+msgstr "ชนิดรูปภาพ"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:512
+msgid "Upload Image"
+msgstr "อัปโหลดภาพ"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:508
+msgid "Slide Background"
+msgstr "พื้นหลังสไลด์"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:338
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:454
+msgid "Delete field"
+msgstr "ลบระเบียน"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:323
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:444
+msgid "Shortcode"
+msgstr "ปุ่มลัด"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:315
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:437
+msgid "Link"
+msgstr "ลิงค์"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:308
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:423
+msgid "Text"
+msgstr "ข้อความ"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:301
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:416
+msgid "Open Link in New Tab"
+msgstr "เปิดลิงก์ในแท็บใหม่"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:293
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:409
+msgid "Slide Link"
+msgstr "ลิงค์สไล"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:286
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:402
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:430
+msgid "Button Text"
+msgstr "ข้อความปุ่ม"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:279
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:395
+msgid "Description"
+msgstr "รายละเอียด"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:272
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:388
+msgid "Subtitle"
+msgstr "หัวเรื่องย่อย"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:248
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:257
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:365
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:373
+msgid "Color"
+msgstr "สี"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:41
+msgid "Customizer Repeater"
+msgstr "ตัวปรับแต่งตัวซ้ำ"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:36
+msgid "Add new field"
+msgstr "เพิ่มระเบียนใหม่"
+
+#: inc/customizer/customizer.php:519
+msgid "After activating non-default skin, you will NOT be able to take control over skin colors. These options are only available in the Ashe PRO."
+msgstr "หลังจากเปิดใช้งานสกินที่ไม่ใช่ค่าเริ่มต้น, คุณจะไม่สามารถควบคุมสีผิวได้. ตัวเลือกเหล่านี้มีให้ใน Ashe PRO โปรเท่านั้น."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "ปลั๊กอินที่แนะนำต่อไปนี้ไม่ทำงาน: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "ปลั๊กอินที่ต้องการเลือกมาไม่ทำงาน: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "มีการอัปเดตสำหรับ: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "ปลั๊กอินต้องการอัปเดตเป็นรุ่นล่าสุดเพื่อให้เข้ากับธีมนี้อย่างเต็มประสิทธิภาพ: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "ธีมนี้แนะนำปลั๊กอินต่อไปนี้: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "ธีมนี้ต้องการปลั๊กอิน: %1$s."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "ติดตั้งปลั๊กอิน %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "การติดตั้งทั้งหมดเสร็จสมบูรณ์."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s ติดตั้งสำเร็จแล้ว."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "กระบวนการติดตั้งเริ่มต้นขึ้น. กระบวนการนี้อาจใช้เวลาสักครู่ในบางโฮสต์, ดังนั้นโปรดอดใจรอ."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "กำลังติดตั้งและเปิดใช้งานปลั๊กอิน %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "การติดตั้งและการเปิดใช้งานทั้งหมดเสร็จสมบูรณ์."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "ซ่อนรายละเอียด"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "แสดงรายละเอียด"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s การติดตั้งและเปิดใช้งานสำเร็จ."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "กระบวนการติดตั้งและการเปิดใช้งานกำลังเริ่ม. กระบวนการใช้เวลาสักพักในบางโฮสต์, กรุณารอ."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "การติดตั้ง %1$s ล้มเหลว."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "เกิดข้อผิดพลาดขณะติดตั้ง %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "กำลังอัปเดตปลั๊กอิน %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "การเปิดใช้งานปลั๊กอินล้มเหลว."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "ไม่มีปลั๊กอินให้เปิดใช้งานในขณะนี้."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "ไม่มีการเลือกปลั๊กอินให้เปิดใช้งาน ไม่มีการดำเนินการ."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "ไม่มีปลั๊กอินที่สามารถอัปเดตได้ในขณะนี้."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "ไม่สามารถติดตั้งปลั๊กอินได้ในเวลานี้."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "ไม่มีปลั๊กอินที่ถูกเลือกให้อัปเดท ไม่มีการดำเนินการ."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "ไม่มีการเลือกปลั๊กอินที่จะติดตั้ง ไม่มีการดำเนินการ."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "เปิดใช้งาน"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "อัปเดท"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "ติดตั้ง"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "อัปเกรดข้อความจากผู้เขียนปลั๊กอิน:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "เปิดใช้งาน %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "อัปเดท %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "ติดตั้ง %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "สถานะ"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "รุ่น"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "ชนิด"
+
+#: inc/customizer/customizer.php:844
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "แหล่งที่มา"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "ปลั๊กอิน"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "ไม่มีปลั๊กอินสำหรับติดตั้ง, อัปเดตหรือเปิดใช้งาน."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "รุ่นที่มีจำหน่าย:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "รุ่นขั้นต่ำที่ต้องการ:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "รุ่นที่ติดตั้ง:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ไม่ทราบ"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "เพื่อเปิดใช้งาน <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "อัปเดตพร้อมใช้งาน <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "ติดตั้ง <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "ปลั๊กอินทั้งหมด <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "ติดตั้ง/อัปเดทสถานะ %1$s, %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "แนะนำการอัปเดท"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "ต้องการอัปเดต"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "ไม่มีการอัปเดตที่ต้องการ"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "ติดตั้ง แต่ไม่เปิดใช้งาน"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "ไม่ได้ติดตั้ง"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "ชุดก่อนหน้านี้"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "แหล่งภายนอก"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "ที่เก็บ WordPress"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "แนะนำ"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "ต้องการ"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "แพ็คเกจปลั๊กอินควบคุมประกอบด้วยไฟล์มากกว่าหนึ่งไฟล์, แต่ไฟล์ดังกล่าวไม่ได้บรรจุในโฟลเดอร์."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "โปรดติดต่อผู้ให้บริการปลั๊กอินและขอให้พวกเขาทำแพ็คเกจปลั๊กอินตามแนวทางของ WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "แพ็คเกจปลั๊กอินควบคุมไม่มีโฟลเดอร์ที่มีกระสุนและการเปลี่ยนชื่อที่ต้องการไม่ทำงาน."
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "จำเป็นต้องการอัปเดต"
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "ปลั๊กอินนี้ต้องได้รับการอัปเดตเพื่อให้เข้ากันได้กับธีมของคุณ."
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "กรุณาติดต่อผู้ควบคุมของเว็บไซต์นี้เพื่อขอความช่วยเหลือ."
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "มีปลั๊กอินที่จำเป็นหรือที่แนะนำอย่างน้อยหนึ่งรายการเพื่อต้องการติดตั้งอัปเดตหรือเปิดใช้งาน."
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "ปิดประกาศนี้"
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "ปลั๊กอินทั้งหมดถูกติดตั้งและเปิดใช้งานเรียบร้อย. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "ปลั๊กอินไม่สามารถเปิดใช้งาน. รุ่นที่ของ %s ต้องการสำหรับธีมนี้ โปรดอัปเดทปลั๊กอินนี้."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "ไม่มีการดำเนินการ. ปลั๊กอิน %1$s เปิดใช้งานอยู่แล้ว."
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "ปลั๊กอินต่อไปนี้เปิดใช้งานได้สำเร็จ:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "เปิดใช้งานปลั๊กอินเรียบร้อยแล้ว."
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "กลับไปที่หน้าแดชบอร์ด"
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "กลับไปที่ปลั๊กอินที่ต้องการติดตั้ง"
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "เริ่มต้นการเปิดใช้งานปลั๊กอิน"
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "เริ่มอัปเดตปลั๊กอิน"
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "เริ่มการติดตั้งปลั๊กอิน"
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "และ"
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "เกิดข้อผิดพลาดกับปลั๊กอิน API."
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "กำลังอัปเดตปลั๊กอิน: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "กำลังติดตั้งปลั๊กอิน: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "ติดตั้งปลั๊กอิน"
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "ติดตั้งปลั๊กอินที่ต้องการ"
+
+#: inc/about/about-ashe.php:323
+msgid "Customize Blog Page"
+msgstr "ปรับแต่งหน้าบล็อก"
+
+#: inc/about/about-ashe.php:318
+msgid "Customize General Layouts"
+msgstr "ปรับแต่ง เลย์เอาท์ ทั่วไป"
+
+#: inc/about/about-ashe.php:303
+msgid "Setup Random Header Images"
+msgstr "ตั้งค่ารูปภาพส่วนหัวข้อแบบสุ่ม"
+
+#: inc/customizer/customizer.php:1360
+msgid "Show Related Posts"
+msgstr "แสดงเรื่องที่เกี่ยวข้อง"
+
+#: inc/customizer/customizer.php:1357
+msgid "Show Featured Links"
+msgstr "แสดงลิงก์ที่คุณสมบัติพิเศษ"
+
+#: inc/customizer/customizer.php:1354
+msgid "Show Featured Slider"
+msgstr "แสดงสไลเดอร์คุณสมบัติพิเศษ"
+
+#: inc/customizer/customizer.php:1351
+msgid "Merge Top and Main Menus"
+msgstr "รวมเมนูด้านบนและเมนูหลัก"
+
+#: inc/customizer/customizer.php:1344
+msgid "These options will only apply to Mobile devices."
+msgstr "ตัวเลือกเหล่านี้จะใช้กับอุปกรณ์เคลื่อนที่เท่านั้น"
+
+#: inc/customizer/customizer.php:1343
+msgid "Responsive"
+msgstr "ตอบสนอง"
+
+#: inc/customizer/customizer.php:1303
+msgid "Show Scroll-Top Button"
+msgstr "แสดงปุ่มเลื่อนขึ้นบน"
+
+#: inc/about/about-ashe.php:515
+msgid "View Full Feature List"
+msgstr "ดูรายการคุณสมบัติพิเศษเต็ม"
+
+#: inc/about/about-ashe.php:505
+msgid "Premium Support 24/7"
+msgstr "สนับสนุน 24/7"
+
+#: inc/about/about-ashe.php:477
+msgid "Classic, List, Grid Layouts"
+msgstr "เลย์เอาท์คลาสสิก, รายการ, เค้าโครงตาราง"
+
+#: inc/about/about-ashe.php:470
+msgid "Unlimited Colors Options"
+msgstr "ตัวเลือกสีไม่จำกัด"
+
+#: 404.php:8
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ดูเหมือนว่าเราจะสามารถ&rsquo;t ค้นหาสิ่งที่คุณ&rsquo;re กำลังมองหา. บางทีการค้นหาอาจช่วยได้."
+
+#: inc/customizer/customizer.php:589
+msgid "Header Background"
+msgstr "พื้นหลังส่วนหัว"
+
+#: inc/about/about-ashe.php:568
+msgid "..."
+msgstr "..."
+
+#: inc/about/about-ashe.php:401 inc/customizer/customizer.php:415
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "ต้องการทราบส่วนสำคัญเกี่ยวกับการเปลี่ยนแปลงธีมล่าสุดหรือไม่? เพียงดูบันทึกการเปลี่ยนแปลงด้านล่างเพื่อรับทราบการแก้ไขและคุณสมบัติพิเศษล่าสุดที่นำมาใช้."
+
+#: inc/about/about-ashe.php:121
+msgid "Start Customizing"
+msgstr "เริ่มปรับแต่ง"
+
+#. translators: %s theme name
+#: inc/about/about-ashe.php:118
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to personalize your site."
+msgstr "%s สนับสนุนเครื่องมือปรับแต่งธีมสำหรับการตั้งค่าธีมทั้งหมด. คลิก \"ปรับแต่ง\" เพื่อปรับแต่งเว็บไซต์ของส่วนตัวคุณ."
+
+#: inc/about/about-ashe.php:46
+msgid "Useful Plugins"
+msgstr "ปลั๊กอินที่มีประโยชน์"
+
+#: functions.php:315
+msgid "Left Sidebar"
+msgstr "ไซด์บาร์ข้างซ้าย"
+
+#: functions.php:305
+msgid "Right Sidebar"
+msgstr "ไซด์บาร์ข้างขวา"
+
+#. translators: %s theme name
+#: inc/about/about-ashe.php:20
+msgid "Welcome to %s"
+msgstr "ยินดีต้อนรับสู่ %s"
+
+#. translators: %1$s: theme name, %2$s link, %3$s theme author
+#: footer.php:47
+msgid "%1$s Theme by <a href=\"%2$s\">%3$s.</a>"
+msgstr "%1$s โดยธีม <a href=\"%2$s\">%3$s.</a>"
+
+#. translators: %1$s: theme name, %2$s link
+#: functions.php:116
+msgid "Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "ขอขอบคุณที่เลือก %1$s! เพื่อใช้ประโยชน์จากชุดรูปแบบที่ดีที่สุดของเราอย่างเต็มที่ โปรดไปที่ <a href=\"%2$s\">Welcome page</a>"
+
+#. translators: %s link
+#: inc/about/about-ashe.php:153 inc/customizer/customizer.php:408
+msgid "Ashe Pro's powerful setup allows you to easily create unique looking sites. Here are a few included examples that can be installed with one click in the Pro Version. More details in the <a href=\"%s\" target=\"_blank\" >Theme Documentation</a>"
+msgstr "การตั้งค่าตามโปร Ashe ช่วยให้คุณสร้างเว็บไซต์ที่ดูไม่เหมือนใครได้อย่างง่ายดาย. ต่อไปนี้คือตัวอย่างบางส่วนที่สามารถติดตั้งได้ด้วยคลิกเดียวในรุ่นโปร. รายละเอียดเพิ่มเติมใน <a href=\"%s\" target=\"_blank\" >Theme Documentation</a>"
+
+#: inc/customizer/customizer.php:1265
+msgid "Uppercase"
+msgstr "ตัวพิมพ์ใหญ่"
+
+#: inc/customizer/customizer.php:1262
+msgid "Italic"
+msgstr "ตัวอักษรเอียง"
+
+#: inc/customizer/customizer.php:1300
+msgid "Your Copyright Text"
+msgstr "ข้อลิขสิทธิ์ของคุณ"
+
+#: inc/customizer/customizer.php:390
+msgid "Demo Preview Page."
+msgstr "แสดงหน้าตัวอย่างตามจริง."
+
+#: inc/customizer/customizer.php:390
+msgid "All you need for startup: Demo Import, Video Tutorials and more. To see what Ashe theme can offer, please visit a "
+msgstr "สิ่งที่คุณต้องการสำหรับการเริ่มต้นใช้งาน: การนำเข้าการสาธิต วิดีโอบทช่วยสอน และอื่นๆ. หากต้องการดูว่าธีม Ashe สามารถนำเสนออะไรได้บ้าง โปรดไปที่"
+
+#: inc/customizer/customizer.php:389
+msgid "Demo Import / Getting Started"
+msgstr "นำเข้าตัวอย่าง/เริ่มต้นใช้งาน"
+
+#: inc/about/about-ashe.php:332
+msgid "Translate The Theme"
+msgstr "แปลภาษาธีม"
+
+#: inc/about/about-ashe.php:328
+msgid "Create Blog Post"
+msgstr "เขียนบล็อกเรื่อง"
+
+#: inc/about/about-ashe.php:269
+msgid "Setup Instagram Widget"
+msgstr "ตั้งค่าวิดเจ็ต Instagram"
+
+#: inc/about/about-ashe.php:313
+msgid "Setup Featured Links"
+msgstr "ตั้งค่าลิงค์คุณสมบัติพิเศษ"
+
+#: inc/about/about-ashe.php:308
+msgid "Setup Featured Slider"
+msgstr "ตั้งค่าสไลเดอร์คุณสมบัติพิเศษ"
+
+#: inc/about/about-ashe.php:298
+msgid "Setup Header Image"
+msgstr "พื้นหลังส่วนหัว"
+
+#: inc/about/about-ashe.php:293
+msgid "Setup Colors"
+msgstr "ตั้งค่าสี"
+
+#: inc/about/about-ashe.php:288
+msgid "Setup Copyright"
+msgstr "ติดตั้งลิขสิทธิ์"
+
+#: inc/about/about-ashe.php:283
+msgid "Setup Social Media"
+msgstr "ตั้งค่าสื่อสังคม"
+
+#: inc/about/about-ashe.php:278
+msgid "Setup Logo Image"
+msgstr "ตั้งค่ารูปภาพรูปโลโก้"
+
+#: inc/about/about-ashe.php:275 inc/about/about-ashe.php:280
+#: inc/about/about-ashe.php:285 inc/about/about-ashe.php:290
+#: inc/about/about-ashe.php:295 inc/about/about-ashe.php:300
+#: inc/about/about-ashe.php:305 inc/about/about-ashe.php:310
+#: inc/about/about-ashe.php:315 inc/about/about-ashe.php:320
+#: inc/about/about-ashe.php:325
+msgid "Customize"
+msgstr "ปรับแต่ง"
+
+#: functions.php:369 functions.php:388 inc/about/about-ashe.php:273
+msgid "Setup Menu"
+msgstr "ตั้งค่าเมนู"
+
+#: inc/about/about-ashe.php:266 inc/customizer/customizer.php:391
+msgid "Get Started"
+msgstr "เริ่ม"
+
+#: inc/about/about-ashe.php:265 inc/about/about-ashe.php:270
+#: inc/about/about-ashe.php:274 inc/about/about-ashe.php:279
+#: inc/about/about-ashe.php:284 inc/about/about-ashe.php:289
+#: inc/about/about-ashe.php:294 inc/about/about-ashe.php:299
+#: inc/about/about-ashe.php:304 inc/about/about-ashe.php:309
+#: inc/about/about-ashe.php:314 inc/about/about-ashe.php:319
+#: inc/about/about-ashe.php:324 inc/about/about-ashe.php:329
+#: inc/about/about-ashe.php:333
+msgid "Watch Video"
+msgstr "ดูวิดีโอ"
+
+#: inc/about/about-ashe.php:83
+msgid "Install Demo Import Plugin"
+msgstr "ติดตั้งตัวทดลองนำเข้าปลั๊กอิน"
+
+#: inc/about/about-ashe.php:81
+msgid "Activate Demo Import Plugin"
+msgstr "เปิดใช้งานตัวทดลองนำเข้าปลั๊กอิน"
+
+#: inc/about/about-ashe.php:79
+msgid "Go to Import page"
+msgstr "ไปหน้าที่นำเข้ามา"
+
+#: inc/about/about-ashe.php:43
+msgid "Video Tutorials"
+msgstr "วิดีโอสอน"
+
+#. translators: %s theme name
+#: inc/about/about-ashe.php:21
+msgid "Theme Demo Preview"
+msgstr "แสดงธีมตัวอย่างตามจริง"
+
+#: functions.php:53
+msgid "Footer Menu"
+msgstr "เมนูท้ายเว็บ"
+
+#: inc/customizer/customizer.php:1137
+msgid "Open Social Links in New Window"
+msgstr "เปิดลิงก์โซเชียลในหน้าต่างใหม่"
+
+#: inc/customizer/customizer.php:737
+msgid "Header Options"
+msgstr "พื้นหลังส่วนหัว"
+
+#: inc/customizer/customizer.php:646
+msgid "List Style"
+msgstr "รายชื่อสไตล์"
+
+#: inc/customizer/customizer.php:645
+msgid "1 Column"
+msgstr "1 คอลัมน์"
+
+#: inc/about/about-ashe.php:460 inc/customizer/customizer.php:405
+#: inc/customizer/customizer.php:411
+msgid "Predefined Styles"
+msgstr "สไตล์ที่กำหนดไว้ล่วงหน้า"
+
+#: inc/about/about-ashe.php:175
+msgid "Lifestyle"
+msgstr "ไลฟ์สไตล์"
+
+#: inc/about/about-ashe.php:182 inc/customizer/customizer.php:504
+msgid "Dark"
+msgstr "เข้ม"
+
+#: inc/about/about-ashe.php:168
+msgid "Food"
+msgstr "อาหาร"
+
+#: inc/about/about-ashe.php:161
+msgid "Main"
+msgstr "เมนูหลัก"
+
+#: inc/about/about-ashe.php:158 inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "เปิดใช้งาน"
+
+#: inc/customizer/customizer.php:1276
+msgid "Typography Options"
+msgstr "ตัวเลือกตัวอักษร"
+
+#: inc/customizer/customizer.php:1256 inc/customizer/customizer.php:1259
+msgid "Font Family"
+msgstr "กลุ่มฟอนต์"
+
+#: inc/customizer/customizer.php:1252
+msgid "Kalam"
+msgstr "Kalam"
+
+#: inc/customizer/customizer.php:1251
+msgid "Rokkitt"
+msgstr "Rokkitt"
+
+#: inc/customizer/customizer.php:1244
+msgid "Typography"
+msgstr "ตัวอักษร"
+
+#: inc/about/about-ashe.php:484
+msgid "Advanced Slider Options"
+msgstr "ตัวเลือกแถบเลื่อน"
+
+#: inc/customizer/customizer.php:1250
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: inc/customizer/customizer.php:1098
+msgid "Single Post"
+msgstr "เรื่องเดียว"
+
+#: inc/about/about-ashe.php:252
+msgid "Style 10"
+msgstr "สไตล์ 10"
+
+#: inc/about/about-ashe.php:245
+msgid "Style 9"
+msgstr "สไตล์ 9"
+
+#: inc/about/about-ashe.php:238
+msgid "Style 8"
+msgstr "สไตล์ 8"
+
+#: inc/about/about-ashe.php:231
+msgid "Style 7"
+msgstr "สไตล์ 7"
+
+#: inc/about/about-ashe.php:224
+msgid "Style 6"
+msgstr "สไตล์ 6"
+
+#: inc/about/about-ashe.php:217
+msgid "Style 5"
+msgstr "สไตล์ 5"
+
+#: inc/about/about-ashe.php:210
+msgid "Style 4"
+msgstr "สไตล์ 4"
+
+#: inc/about/about-ashe.php:203
+msgid "Style 3"
+msgstr "สไตล์ 3"
+
+#: inc/about/about-ashe.php:196
+msgid "Style 2"
+msgstr "สไตล์ 2"
+
+#: inc/about/about-ashe.php:162 inc/about/about-ashe.php:169
+#: inc/about/about-ashe.php:176 inc/about/about-ashe.php:183
+#: inc/about/about-ashe.php:190 inc/about/about-ashe.php:197
+#: inc/about/about-ashe.php:204 inc/about/about-ashe.php:211
+#: inc/about/about-ashe.php:218 inc/about/about-ashe.php:225
+#: inc/about/about-ashe.php:232 inc/about/about-ashe.php:239
+#: inc/about/about-ashe.php:246 inc/about/about-ashe.php:253
+msgid "Live Preview"
+msgstr "ตัวอย่างแบบสด"
+
+#: inc/about/about-ashe.php:189
+msgid "Style 1"
+msgstr "สไตล์ 1"
+
+#: inc/about/about-ashe.php:150
+msgid "Ashe Pro - Predefined Styles"
+msgstr "Ashe Pro - สไตล์ที่กำหนดไว้ล่วงหน้า"
+
+#: inc/customizer/customizer.php:767
+msgid "Logo Options"
+msgstr "ตัวเลือกรูปโลโก้"
+
+#: templates/sidebars/sidebar-alt.php:25
+msgid "No Widgets found in the Sidebar Alt!"
+msgstr "ไม่พบวิดเจ็ตในไซด์บาร์ Alt!"
+
+#: single.php:34 templates/grid/blog-grid.php:116
+msgid "You May Also Like"
+msgstr "คุณอาจชื่นชอบ"
+
+#: inc/about/about-ashe.php:491
+msgid "Advanced WooCommerce Support"
+msgstr "สนับสนุน WooCommerce"
+
+#: inc/preview/demo-preview.php:80
+msgid "Pages"
+msgstr "หน้า"
+
+#: inc/preview/demo-preview.php:75
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+#: inc/preview/demo-preview.php:74 inc/preview/demo-preview.php:81
+msgid "Archives"
+msgstr "คลังเก็บ"
+
+#: inc/preview/demo-preview.php:73
+msgid "Recent Posts"
+msgstr "เรื่องล่าสุด"
+
+#: inc/preview/demo-preview.php:72 inc/preview/demo-preview.php:79
+msgid "Search"
+msgstr "ค้นหา"
+
+#: templates/single/post-content.php:91
+msgid "By"
+msgstr "โดย"
+
+#: templates/grid/blog-grid.php:89 templates/grid/blog-list.php:93
+#: templates/header/featured-slider.php:99
+msgid "read more"
+msgstr "อ่านเพิ่มเติม"
+
+#: templates/grid/blog-pagination.php:76
+msgid "Load More"
+msgstr "โหลดเพิ่มเติม"
+
+#: templates/grid/blog-pagination.php:70
+msgid "Newer Posts"
+msgstr "เรื่องใหม่"
+
+#: templates/grid/blog-pagination.php:64
+msgid "Older Posts"
+msgstr "เรื่องเก่า"
+
+#: templates/grid/blog-pagination.php:31
+msgid "Loading..."
+msgstr "กำลังโหลด..."
+
+#: templates/grid/blog-grid.php:134 templates/grid/blog-list.php:116
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ขออภัยไม่มีอะไรตรงกับข้อความค้นหาป้ายคำของคุณ. โปรดลองอีกครั้งด้วยคำหลักที่แตกต่างกัน."
+
+#: templates/grid/blog-grid.php:133 templates/grid/blog-list.php:115
+msgid "Nothing Found!"
+msgstr "ไม่พบหน้านี้!"
+
+#: templates/grid/blog-grid.php:65 templates/grid/blog-grid.php:108
+#: templates/grid/blog-list.php:68 templates/single/post-content.php:50
+#: templates/single/post-content.php:99
+msgid "Comments"
+msgstr "ความเห็น"
+
+#: templates/grid/blog-grid.php:65 templates/grid/blog-grid.php:108
+#: templates/grid/blog-list.php:68 templates/single/post-content.php:50
+#: templates/single/post-content.php:99
+msgid "1 Comment"
+msgstr "1 ความเห็น"
+
+#: page.php:63 templates/single/post-content.php:68
+msgid "Pages:"
+msgstr "หน้า:"
+
+#: inc/customizer/customizer.php:1334
+msgid "Preloading Animation"
+msgstr "กำลังโหลดแอนิเมชั่นล่วงหน้า"
+
+#: inc/customizer/customizer.php:1328
+msgid "Preloader"
+msgstr "ตัวโหลดล่วงหน้า"
+
+#: inc/customizer/customizer.php:1313
+msgid "Footer Options"
+msgstr "ตัวเลือกส่วนท้าย"
+
+#: inc/customizer/customizer.php:1292
+msgid "Page Footer"
+msgstr "ส่วนท้ายของหน้า"
+
+#: inc/customizer/customizer.php:1215 inc/customizer/customizer.php:1221
+#: inc/customizer/customizer.php:1227 inc/customizer/customizer.php:1233
+msgid "Select Icon"
+msgstr "เลือกไอคอน"
+
+#: inc/customizer/customizer.php:1131
+msgid "Social Media"
+msgstr "สื่อสังคม"
+
+#: inc/customizer/customizer.php:1073 inc/customizer/customizer.php:1122
+msgid "Related Posts - Display"
+msgstr "แสดงเรื่องที่เกี่ยวข้อง"
+
+#: inc/customizer/customizer.php:1119
+msgid "Show Author Description"
+msgstr "แสดงผู้แต่ง รายละเอียด"
+
+#: inc/customizer/customizer.php:1083
+msgid "Blog Options "
+msgstr "ตัวเลือกบล๊อก"
+
+#: inc/customizer/customizer.php:1069
+msgid "Related"
+msgstr "ที่เกี่ยวข้อง"
+
+#: inc/customizer/customizer.php:1044 inc/customizer/customizer.php:1116
+msgid "Show Author"
+msgstr "แสดงผู้แต่ง"
+
+#: inc/customizer/customizer.php:1041 inc/customizer/customizer.php:1113
+msgid "Show Comments"
+msgstr "แสดงความเห็น"
+
+#: inc/customizer/customizer.php:1038 inc/customizer/customizer.php:1110
+msgid "Show Date"
+msgstr "แสดงวันที่"
+
+#: inc/customizer/customizer.php:1035 inc/customizer/customizer.php:1107
+msgid "Show Categories"
+msgstr "แสดงหมวดหมู่"
+
+#: inc/customizer/customizer.php:1029
+msgid "Post Pagination"
+msgstr "ส่งตัวนำทาง"
+
+#: inc/customizer/customizer.php:1025
+msgid "Numeric"
+msgstr "เป็นตัวเลข"
+
+#: inc/customizer/customizer.php:503 inc/customizer/customizer.php:1024
+msgid "Default"
+msgstr "ค่าเริ่มต้น"
+
+#: inc/customizer/customizer.php:1021
+msgid "Post Description"
+msgstr "ส่งรายละเอียด"
+
+#: inc/customizer/customizer.php:1017
+msgid "Post Content"
+msgstr "ส่งเนื้อหา"
+
+#: inc/customizer/customizer.php:1016
+msgid "Post Excerpt"
+msgstr "ส่งข้อยกเว้น"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:524
+#: inc/customizer/customizer.php:1015 inc/customizer/customizer.php:1068
+msgid "None"
+msgstr "ไม่มี"
+
+#: inc/customizer/customizer.php:650 inc/customizer/customizer.php:1009
+msgid "Blog Page"
+msgstr "หน้าบล็อก"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:523
+#: inc/customizer/customizer.php:967 inc/customizer/customizer.php:976
+#: inc/customizer/customizer.php:985
+msgid "Image"
+msgstr "รูปภาพ"
+
+#: inc/customizer/customizer.php:964 inc/customizer/customizer.php:973
+#: inc/customizer/customizer.php:982 inc/customizer/customizer.php:1218
+#: inc/customizer/customizer.php:1224 inc/customizer/customizer.php:1230
+#: inc/customizer/customizer.php:1236
+msgid "URL"
+msgstr "URL"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:265
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:381
+#: inc/customizer/customizer.php:961 inc/customizer/customizer.php:970
+#: inc/customizer/customizer.php:979
+msgid "Title"
+msgstr "หัวข้อ"
+
+#: inc/customizer/customizer.php:943 inc/customizer/customizer.php:949
+msgid "Featured Links"
+msgstr "ลิงค์คุณสมบัติพิเศษ"
+
+#: inc/customizer/customizer.php:929
+msgid "Slider Options "
+msgstr "ตัวเลือกตัวเลื่้อน "
+
+#: inc/customizer/customizer.php:919
+msgid "Show Pagination Dots"
+msgstr "แสดงจุดตัวนำทาง"
+
+#: inc/customizer/customizer.php:916
+msgid "Show Navigation Arrows"
+msgstr "แสดงส่วนหัวเรื่องนำทาง"
+
+#: inc/customizer/customizer.php:910
+msgid "Number of Slides"
+msgstr "จำนวนสไลด์"
+
+#: inc/customizer/customizer.php:907
+msgid "Select Category"
+msgstr "เลือกหมวดหมู่"
+
+#: inc/customizer/customizer.php:898
+msgid "Display Posts"
+msgstr "แสดงเรื่อง"
+
+#: inc/customizer/customizer.php:821 inc/customizer/customizer.php:827
+msgid "Featured Slider"
+msgstr "ตัวเลื่อนที่คุณสมบัติพิเศษ"
+
+#: inc/customizer/customizer.php:803
+msgid "Show Sidebar Icon"
+msgstr "แสดงไอคอนไซด์บาร์"
+
+#: inc/customizer/customizer.php:800
+msgid "Show Search Icon"
+msgstr "แสดงไอคอนค้นหา"
+
+#: inc/customizer/customizer.php:797
+msgid "Align"
+msgstr "ตําแหน่ง"
+
+#: inc/customizer/customizer.php:793
+msgid "Right"
+msgstr "ขวา"
+
+#: inc/customizer/customizer.php:792
+msgid "Center"
+msgstr "กึ่งกลาง"
+
+#: inc/customizer/customizer.php:791
+msgid "Left"
+msgstr "ซ้าย"
+
+#: inc/customizer/customizer.php:782 inc/customizer/customizer.php:788
+msgid "Main Navigation"
+msgstr "นำทางไปเมนูหลัก"
+
+#: inc/customizer/customizer.php:752
+msgid "Width"
+msgstr "ความกว้าง"
+
+#: inc/customizer/customizer.php:727
+msgid "Background Image Size"
+msgstr "ขนาดภาพพื้นหลัง"
+
+#: inc/customizer/customizer.php:723
+msgid "Pattern"
+msgstr "แบบแผน"
+
+#: inc/customizer/customizer.php:722
+msgid "Cover"
+msgstr "ปก"
+
+#: inc/customizer/customizer.php:719
+msgid "Page Header"
+msgstr "ส่วนหัวข้อกระดาษ"
+
+#: inc/customizer/customizer.php:703 inc/customizer/customizer.php:709
+msgid "Top Bar"
+msgstr "บาร์ส่วนบน"
+
+#: inc/customizer/customizer.php:689
+msgid "Layout Options"
+msgstr "ตัวเลือกเลย์เอาท์"
+
+#: inc/customizer/customizer.php:679
+msgid "Footer Width"
+msgstr "ความกว้างของส่วนท้าย"
+
+#: inc/customizer/customizer.php:676
+msgid "Single Content Width"
+msgstr "ความกว้างของเนื่อหาเดียว"
+
+#: inc/customizer/customizer.php:673
+msgid "Content Width"
+msgstr "ความกว้างของเนื้อหา"
+
+#: inc/customizer/customizer.php:670
+msgid "Featured Links Width"
+msgstr "ความกว้างของลิงค์คุณสมบัติพิเศษ"
+
+#: inc/customizer/customizer.php:667
+msgid "Featured Slider Width"
+msgstr "ความกว้างของตัวเลื่อนคุณสมบัติพิเศษ"
+
+#: inc/customizer/customizer.php:659
+msgid "Header Width"
+msgstr "ความกว้างของส่วนหัว"
+
+#: inc/customizer/customizer.php:655 inc/customizer/customizer.php:663
+msgid "Boxed"
+msgstr "กล่อง"
+
+#: inc/customizer/customizer.php:654
+msgid "Contained"
+msgstr "มี"
+
+#: inc/customizer/customizer.php:653 inc/customizer/customizer.php:662
+msgid "Full"
+msgstr "เต็ม"
+
+#: inc/customizer/customizer.php:641
+msgid "Enable Sticky Sidebar"
+msgstr "เปิดใช้งานไซด์บาร์ปักหมุด"
+
+#: inc/customizer/customizer.php:638
+msgid "Sidebar Width"
+msgstr "ความกว้างของไซด์บาร์"
+
+#: inc/customizer/customizer.php:632
+msgid "General Layouts"
+msgstr "เลย์เอาท์โดยทั่วไป"
+
+#: inc/customizer/customizer.php:582
+msgid "Accent"
+msgstr "สำเนียง"
+
+#: inc/customizer/customizer.php:576 inc/customizer/customizer.php:617
+msgid "Colors"
+msgstr "สี"
+
+#: inc/about/about-ashe.php:73 inc/about/about-ashe.php:264
+msgid "Demo Content"
+msgstr "เนื้่อหาตัวอย่าง"
+
+#: inc/customizer/customizer.php:380
+msgid "There are lots of reasons to upgrade to Pro version. Unlimited custom Colors, rich Typography options, multiple variation of Blog Feed layout and way much more. Also Premium Support included."
+msgstr "มีเหตุผลมากมายที่จะอัปเกรดเป็นรุ่นโปร. สีที่กำหนดเองได้ไม่จำกัด, ตัวอัษรการพิมพ์ที่หลากหลาย, รูปแบบที่หลากหลายของเค้าโครงฟีดบล็อกและอื่นๆ. อีกมากมาย รวมถึงการสนับสนุนระดับพรีเมียม."
+
+#: inc/customizer/customizer.php:379
+msgid "Upgrade"
+msgstr "อัปเกรด"
+
+#: functions.php:182 inc/about/about-ashe.php:141 inc/about/about-ashe.php:563
+msgid "Install Now"
+msgstr "ดาวน์โหลดเดี๋ยวนี้"
+
+#: inc/about/about-ashe.php:560
+msgid "Installed"
+msgstr "ติดตั้งแล้ว"
+
+#: inc/about/about-ashe.php:498
+msgid "Sticky Navigation"
+msgstr "นำทางแบบปักหมุด"
+
+#: inc/about/about-ashe.php:451
+msgid "Header Background Image/Color/Video"
+msgstr "ภาพพื้นหลัง/สี/วิดีโอของส่วนหัว"
+
+#: inc/about/about-ashe.php:399 inc/about/about-ashe.php:402
+#: inc/customizer/customizer.php:414 inc/customizer/customizer.php:416
+msgid "Changelog"
+msgstr "การเปลี่ยนแปลง"
+
+#: inc/about/about-ashe.php:68
+msgid "Read Full Documentation"
+msgstr "อ่านเอกสารฉบับสมบูรณ์"
+
+#. translators: %s theme name
+#: inc/about/about-ashe.php:65 inc/customizer/customizer.php:399
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "ต้องการรายละเอียดเพิ่มเติม? โปรดตรวจสอบเอกสารฉบับเต็มของเราเพื่อดูข้อมูลโดยละเอียดเกี่ยวกับวิธีใช้ %s."
+
+#: inc/about/about-ashe.php:62 inc/customizer/customizer.php:394
+#: inc/customizer/customizer.php:402
+msgid "Documentation"
+msgstr "เอกสาร"
+
+#: inc/about/about-ashe.php:393
+msgid "Go to Support Forums"
+msgstr "ไปที่หัวข้อสนับสนุน"
+
+#: inc/about/about-ashe.php:392
+msgid "Before asking a questions it's highly recommended to search on forums, but if you can't find the solution feel free to create a new topic."
+msgstr "ก่อนที่จะถามคำถาม ขอแนะนำให้ค้นหาในฟอรัม, แต่หากไม่พบวิธีแก้ปัญหาให้สร้างหัวข้อใหม่."
+
+#: inc/about/about-ashe.php:390
+msgid "Forums"
+msgstr "ฟอรั่ม"
+
+#: inc/about/about-ashe.php:115
+msgid "Theme Customizer"
+msgstr "เครื่องมือปรับแต่งธีม"
+
+#: inc/about/about-ashe.php:52
+msgid "Free vs Pro"
+msgstr "ฟรีกับโปร"
+
+#: inc/about/about-ashe.php:49 inc/customizer/customizer.php:384
+msgid "Support"
+msgstr "สนับสนุน"
+
+#: inc/about/about-ashe.php:40
+msgid "Getting Started"
+msgstr "เริ่มต้นใช้งาน"
+
+#: inc/about/about-ashe.php:5 inc/customizer/customizer.php:449
+msgid "About Ashe"
+msgstr "เกี่ยวกับ Ashe"
+
+#: functions.php:806
+msgid "Your comment is awaiting moderation."
+msgstr "ความเห็นของคุณกำลังรอการกลั่นกรอง."
+
+#: functions.php:774 functions.php:797
+msgid "[Edit]"
+msgstr "[แก้ไข]"
+
+#: functions.php:773 functions.php:794
+msgid "&nbsp;at&nbsp;"
+msgstr "&nbsp;at&nbsp;"
+
+#: functions.php:771
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:673
+msgid "Type then hit Enter..."
+msgstr "พิมพ์แล้วก็กดเอ็นเทอร์..."
+
+#: functions.php:673
+msgid "Search..."
+msgstr "ค้นหา..."
+
+#. translators: %s: Name of current post
+#: functions.php:408 functions.php:424
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "อ่านต่อ<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: functions.php:337
+msgid "Add widgets here to appear in your footer."
+msgstr "เพิ่มวิดเจ็ตที่นี่เพื่อให้ปรากฏอยู่ในส่วนท้ายหน้าของเว็บไซต์ของคุณ."
+
+#: functions.php:335
+msgid "Footer Widgets"
+msgstr "วิดเจ็ตส่วนท้าย"
+
+#: functions.php:327
+msgid "Add widgets here to appear in your alternative/fixed sidebar."
+msgstr "เพิ่มวิดเจ็ตที่นี่เพื่อให้ปรากฏในไซด์บาร์ทางเลือก/คงที่."
+
+#: functions.php:325
+msgid "Sidebar Alt"
+msgstr "ไซด์บาร์ Alt"
+
+#: functions.php:307 functions.php:317
+msgid "Add widgets here to appear in your sidebar."
+msgstr "เพิ่มวิดเจ็ตที่นี่เพื่อให้ปรากฏอยู่ในไซด์บาร์ของคุณ."
+
+#: functions.php:250 functions.php:258 functions.php:266 functions.php:274
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "บน"
+
+#. translators: %s theme name
+#: functions.php:121
+msgid "Get started with %s"
+msgstr "เริ่ม %s"
+
+#: functions.php:52
+msgid "Main Menu"
+msgstr "เมนูหลัก"
+
+#: functions.php:51
+msgid "Top Menu"
+msgstr "เมนูด้านบน"
+
+#: comments.php:30
+msgid "Newer Comments"
+msgstr "ความเห็นที่ใหม่กว่า"
+
+#: comments.php:26
+msgid "Older Comments"
+msgstr "ความเห็นเก่ากว่า"
+
+#: comments.php:12
+msgid "% Comments"
+msgstr "% ความเห็น"
+
+#: comments.php:12
+msgid "One Comment"
+msgstr "หนึ่งความเห็น"
+
+#: comments.php:12 templates/grid/blog-grid.php:65
+#: templates/grid/blog-grid.php:108 templates/grid/blog-list.php:68
+#: templates/single/post-content.php:50 templates/single/post-content.php:99
+msgid "0 Comments"
+msgstr "0 ความเห็น"
+
+#: 404.php:5
+msgid "Page not found!"
+msgstr "ไม่พบหน้านี้!"
+
+#: inc/customizer/customizer.php:298
+msgid "See Ashe PRO"
+msgstr "ดู Ashe PRO โปร"
+
+#: inc/about/about-ashe.php:438
+msgid "Ashe Pro"
+msgstr "Ashe Pro"
+
+#: inc/about/about-ashe.php:434 inc/customizer/customizer.php:381
+msgid "Get Ashe Pro"
+msgstr "ได้รับ Ashe Pro โปร"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "WP Royal"
+msgstr "WP Royal"
